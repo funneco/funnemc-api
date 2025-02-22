@@ -1,0 +1,272 @@
+{
+    "name": "Better than Adventure versions",
+    "version": 0.1,
+    "updated": "2025-02-22T00:00:00.000Z",
+    "releases": [
+      {
+        "modversion": "21w47a",
+        "prerelease": true,
+        "zip": false,
+        "downloadurl": "https://github.com/Better-than-Adventure/bta-download-repo/releases/download/21w47a/bta.jar"
+      },
+      {
+        "modversion": "21w46a",
+        "prerelease": true,
+        "zip": false,
+        "downloadurl": "https://github.com/Better-than-Adventure/bta-download-repo/releases/download/21w46a/bta.jar"
+      },
+      {
+        "modversion": "21w36b",
+        "prerelease": true,
+        "zip": false,
+        "downloadurl": "https://github.com/Better-than-Adventure/bta-download-repo/releases/download/21w36b/bta.jar"
+      },
+      {
+        "modversion": "21w36a",
+        "prerelease": true,
+        "zip": false,
+        "downloadurl": "https://github.com/Better-than-Adventure/bta-download-repo/releases/download/21w36a/bta.jar"
+      },
+      {
+        "modversion": "21w34a",
+        "prerelease": true,
+        "zip": false,
+        "downloadurl": "https://github.com/Better-than-Adventure/bta-download-repo/releases/download/21w34a/bta.jar"
+      },
+      {
+        "modversion": "v7.3_01",
+        "prerelease": false,
+        "zip": true,
+        "downloadurl": "https://github.com/Better-than-Adventure/bta-download-repo/releases/download/v7.3_01/bta.v7.3_01.mmc.zip"
+      },
+      {
+        "modversion": "v7.3",
+        "prerelease": false,
+        "zip": true,
+        "downloadurl": "https://github.com/Better-than-Adventure/bta-download-repo/releases/download/v7.3/bta.v7.3.mmc.zip"
+      },
+      {
+        "modversion": "v7.2_01",
+        "prerelease": false,
+        "zip": true,
+        "downloadurl": "https://github.com/Better-than-Adventure/bta-download-repo/releases/download/v7.2_01/7.2_01.zip"
+      },
+      {
+        "modversion": "v7.2",
+        "prerelease": false,
+        "zip": true,
+        "downloadurl": "https://github.com/Better-than-Adventure/bta-download-repo/releases/download/v7.2/7.2.zip"
+      },
+      {
+        "modversion": "v7.2-prerelease-2",
+        "prerelease": true,
+        "zip": true,
+        "downloadurl": "https://github.com/Better-than-Adventure/bta-download-repo/releases/download/v7.2-prerelease-2/Better_than_Adventure_7.2_Prerelease_2.zip"
+      },
+      {
+        "modversion": "v7.2 Prerelease 1",
+        "prerelease": true,
+        "zip": true,
+        "downloadurl": "https://github.com/Better-than-Adventure/bta-download-repo/releases/download/v7.2-prerelease-1/v7.2.Prerelease.1.zip"
+      },
+      {
+        "modversion": "v7.1_01",
+        "prerelease": false,
+        "zip": true,
+        "downloadurl": "https://github.com/Better-than-Adventure/bta-download-repo/releases/download/v7.1_01/7.1_01.zip"
+      },
+      {
+        "modversion": "v7.1",
+        "prerelease": false,
+        "zip": true,
+        "downloadurl": "https://github.com/Better-than-Adventure/bta-download-repo/releases/download/v7.1/7.1.zip"
+      },
+      {
+        "modversion": "v7.1",
+        "prerelease": false,
+        "zip": true,
+        "downloadurl": "https://github.com/Better-than-Adventure/bta-download-repo/releases/download/v7.1/7.1.zip"
+      },
+      {
+        "modversion": "v7.1-prerelease-2",
+        "prerelease": true,
+        "zip": true,
+        "downloadurl": "https://github.com/Better-than-Adventure/bta-download-repo/releases/download/v7.1-prerelease-2/Better_than_Adventure_7.1_Prerelease_2.zip"
+      },
+      {
+        "modversion": "v7.1-prerelease-2a",
+        "prerelease": true,
+        "zip": true,
+        "downloadurl": "https://github.com/Better-than-Adventure/bta-download-repo/releases/download/v7.1-prerelease-2a/Better_than_Adventure_7.1_Prerelease_2a.zip"
+      },
+      {
+        "modversion": "v7.1-prerelease-1",
+        "prerelease": true,
+        "zip": true,
+        "downloadurl": "https://github.com/Better-than-Adventure/bta-download-repo/releases/download/v7.1-prerelease-1/Better_than_Adventure_7.1_Prerelease_1.zip"
+      },
+      {
+        "modversion": "v7.1-prerelease-1a",
+        "prerelease": true,
+        "zip": true,
+        "downloadurl": "https://github.com/Better-than-Adventure/bta-download-repo/releases/download/v7.1-prerelease-1a/Better_than_Adventure_7.1_Prerelease_1a.zip"
+      },
+      {
+        "modversion": "v1.7.7.0_02",
+        "prerelease": false,
+        "zip": true,
+        "downloadurl": "https://github.com/Better-than-Adventure/bta-download-repo/releases/download/v1.7.7.0_02/1.7.7.0_02.zip"
+      },
+      {
+        "modversion": "v1.7.7.0_01",
+        "prerelease": false,
+        "zip": true,
+        "downloadurl": "https://github.com/Better-than-Adventure/bta-download-repo/releases/download/v1.7.7.0_01/1.7.7.0_01.zip"
+      },
+      {
+        "modversion": "v1.7.7.0",
+        "prerelease": false,
+        "zip": true,
+        "downloadurl": "https://github.com/Better-than-Adventure/bta-download-repo/releases/download/v1.7.7.0/BTA_1.7.7.0.zip"
+      },
+      {
+        "modversion": "v1.7.7.0-prerelease-2",
+        "prerelease": true,
+        "zip": true,
+        "downloadurl": "https://github.com/Better-than-Adventure/bta-download-repo/releases/download/v1.7.7.0-prerelease-2/BTA_1.7.7.0_pre2.zip"
+      },
+      {
+        "modversion": "v1.7.7.0-prerelease-1",
+        "prerelease": true,
+        "zip": true,
+        "downloadurl": "https://github.com/Better-than-Adventure/bta-download-repo/releases/download/v1.7.7.0-prerelease-1/BTA_1.7.7.0_pre1.zip"
+      },
+      {
+        "modversion": "v1.7.7.0-prerelease-1a",
+        "prerelease": true,
+        "zip": true,
+        "downloadurl": "https://github.com/Better-than-Adventure/bta-download-repo/releases/download/v1.7.7.0-prerelease-1a/BTA_1.7.7.0_pre1a.zip"
+      },
+      {
+        "modversion": "v1.7.6.2_02",
+        "prerelease": false,
+        "zip": true,
+        "downloadurl": "https://github.com/Better-than-Adventure/bta-download-repo/releases/download/v1.7.6.2_02/BTA_1.7.6.2_02.MultiMC.zip"
+      },
+      {
+        "modversion": "v1.7.6.2_01",
+        "prerelease": false,
+        "zip": true,
+        "downloadurl": "https://github.com/Better-than-Adventure/bta-download-repo/releases/download/v1.7.6.2_01/BTA_1.7.6.2_01_MultiMC.zip"
+      },
+      {
+        "modversion": "v1.7.6.2",
+        "prerelease": false,
+        "zip": true,
+        "downloadurl": "https://github.com/Better-than-Adventure/bta-download-repo/releases/download/v1.7.6.2/BTA_1.7.6.2_MultiMC.zip"
+      },
+      {
+        "modversion": "v1.7.6.2-prerelease-2",
+        "prerelease": true,
+        "zip": true,
+        "downloadurl": "https://github.com/Better-than-Adventure/bta-download-repo/releases/download/v1.7.6.2-prerelease-2/1.7.6.2_PRE2_MultiMC.zip"
+      },
+      {
+        "modversion": "v1.7.6.2-prerelease-1",
+        "prerelease": true,
+        "zip": true,
+        "downloadurl": "https://github.com/Better-than-Adventure/bta-download-repo/releases/download/v1.7.6.2-prerelease-1/1.7.6.2_PRE1.MultiMC.zip"
+      },
+      {
+        "modversion": "v1.7.6_01",
+        "prerelease": false,
+        "zip": true,
+        "downloadurl": "https://github.com/Better-than-Adventure/bta-download-repo/releases/download/v1.7.6_01/Files-MultiMC-1.7.6_01.zip"
+      },
+      {
+        "modversion": "v1.7.6.1",
+        "prerelease": false,
+        "zip": true,
+        "downloadurl": "https://github.com/Better-than-Adventure/bta-download-repo/releases/download/v1.7.6.1/1.7.6.1-MULTIMC.zip"
+      },
+      {
+        "modversion": "v1.7.6",
+        "prerelease": false,
+        "zip": true,
+        "downloadurl": "https://github.com/Better-than-Adventure/bta-download-repo/releases/download/v1.7.6/Minecraft-BTA-1.7.6-MultiMC.zip"
+      },
+      {
+        "modversion": "v1.7.6 prerelease 3",
+        "prerelease": true,
+        "zip": false,
+        "downloadurl": "https://github.com/Better-than-Adventure/bta-download-repo/releases/download/v1.7.6-prerelease-3/bta.jar"
+      },
+      {
+        "modversion": "v1.7.6 prerelease 2",
+        "prerelease": true,
+        "zip": false,
+        "downloadurl": "https://github.com/Better-than-Adventure/bta-download-repo/releases/download/v1.7.6-prerelease-2/bta.jar"
+      },
+      {
+        "modversion": "v1.7.6 prerelease 2c",
+        "prerelease": true,
+        "zip": false,
+        "downloadurl": "https://github.com/Better-than-Adventure/bta-download-repo/releases/download/v1.7.6-prerelease-2c/bta.jar"
+      },
+      {
+        "modversion": "v1.7.6 prerelease 1",
+        "prerelease": true,
+        "zip": false,
+        "downloadurl": "https://github.com/Better-than-Adventure/bta-download-repo/releases/download/v1.7.6-prerelease-1/bta.jar"
+      },
+      {
+        "modversion": "v1.7.5_01",
+        "prerelease": false,
+        "zip": false,
+        "downloadurl": "https://github.com/Better-than-Adventure/bta-download-repo/releases/download/v1.7.5_01/bta.jar"
+      },
+      {
+        "modversion": "v1.7.5",
+        "prerelease": false,
+        "zip": false,
+        "downloadurl": "https://github.com/Better-than-Adventure/bta-download-repo/releases/download/v1.7.5/bta.jar"
+      },
+      {
+        "modversion": "v1.7.5-prerelease-3",
+        "prerelease": true,
+        "zip": false,
+        "downloadurl": "https://github.com/Better-than-Adventure/bta-download-repo/releases/download/v1.7.5-prerelease-3/bta.jar"
+      },
+      {
+        "modversion": "v1.7.5-prerelease-2",
+        "prerelease": true,
+        "zip": false,
+        "downloadurl": "https://github.com/Better-than-Adventure/bta-download-repo/releases/download/v1.7.5-prerelease-2/bta.jar"
+      },
+      {
+        "modversion": "v1.7.5-prerelease-1",
+        "prerelease": true,
+        "zip": false,
+        "downloadurl": "https://github.com/Better-than-Adventure/bta-download-repo/releases/download/v1.7.5-prerelease-1/bta.jar"
+      },
+      {
+        "modversion": "v1.7.4_02",
+        "prerelease": false,
+        "zip": false,
+        "downloadurl": "https://github.com/Better-than-Adventure/bta-download-repo/releases/download/v1.7.4_02/bta.jar"
+      },
+      {
+        "modversion": "v1.7.4_01_1",
+        "prerelease": false,
+        "zip": false,
+        "downloadurl": "https://github.com/Better-than-Adventure/bta-download-repo/releases/download/v1.7.4_01_1/bta.jar"
+      },
+      {
+        "modversion": "v1.7.4_01",
+        "prerelease": false,
+        "zip": false,
+        "downloadurl": "https://github.com/Better-than-Adventure/bta-download-repo/releases/download/v1.7.4_01/bta.jar"
+      }
+    ]
+  }
+  
