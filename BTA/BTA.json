@@ -7,266 +7,302 @@
         "modversion": "21w47a",
         "prerelease": true,
         "zip": false,
-        "downloadurl": "https://github.com/Better-than-Adventure/bta-download-repo/releases/download/21w47a/bta.jar"
+        "downloadurl": "https://github.com/Better-than-Adventure/bta-download-repo/releases/download/21w47a/bta.jar",
+        "description": "18"
       },
       {
         "modversion": "21w46a",
         "prerelease": true,
         "zip": false,
-        "downloadurl": "https://github.com/Better-than-Adventure/bta-download-repo/releases/download/21w46a/bta.jar"
+        "downloadurl": "https://github.com/Better-than-Adventure/bta-download-repo/releases/download/21w46a/bta.jar",
+        "description": "17"
       },
       {
         "modversion": "21w36b",
         "prerelease": true,
         "zip": false,
-        "downloadurl": "https://github.com/Better-than-Adventure/bta-download-repo/releases/download/21w36b/bta.jar"
+        "downloadurl": "https://github.com/Better-than-Adventure/bta-download-repo/releases/download/21w36b/bta.jar",
+        "description": "10"
       },
       {
         "modversion": "21w36a",
         "prerelease": true,
         "zip": false,
-        "downloadurl": "https://github.com/Better-than-Adventure/bta-download-repo/releases/download/21w36a/bta.jar"
+        "downloadurl": "https://github.com/Better-than-Adventure/bta-download-repo/releases/download/21w36a/bta.jar",
+        "description": "9"
       },
       {
         "modversion": "21w34a",
         "prerelease": true,
         "zip": false,
-        "downloadurl": "https://github.com/Better-than-Adventure/bta-download-repo/releases/download/21w34a/bta.jar"
+        "downloadurl": "https://github.com/Better-than-Adventure/bta-download-repo/releases/download/21w34a/bta.jar",
+        "description": "8"
       },
       {
         "modversion": "v7.3_01",
         "prerelease": false,
         "zip": true,
-        "downloadurl": "https://github.com/Better-than-Adventure/bta-download-repo/releases/download/v7.3_01/bta.v7.3_01.mmc.zip"
+        "downloadurl": "https://github.com/Better-than-Adventure/bta-download-repo/releases/download/v7.3_01/bta.v7.3_01.mmc.zip",
+        "description": "-   Added new slab and stair blocks:\r\n    -   Lapis bricks\r\n    -   Iron bricks\r\n    -   Gold bricks\r\n    -   Steel bricks\r\n-   Empty paintbrushes now render with empty durability\r\n-   Paintbrushes now return to uncolored state when fully used\r\n-   Player nicknames can no longer have spaces\r\n-   /whois now suggests nicknames instead of usernames\r\n-   Shift right click now decrements the pitch on noteblocks\r\n-   Added molten pumice recipe\r\n-   Wet sponges now dry when placed adjacent to lava or igneous netherrack\r\n-   Added missing door undyeing recipe\r\n-   Added easy bridge keybind\r\n-   Made painted doors valid furnace fuel\r\n-   Changed light grey dye recipe to use grey dye and bonemeal, rather then grey dye and ink sacks\r\n-   Made doubled up cobbled netherrack slabs burn forever\r\n-   Re-enabled experimental MultiDraw Renderer (Click the bottom right corner of the main menu to go to the debug menu to find the option)\r\n-   NBT Tag json serialization support\r\n-   Updated brigadier to 1.0.2\r\n-   Added metadata to item sorting parameters\r\n-   Various optimizations\r\n\r\n-   Fixed basket fill being able to render outside the bounds\r\n-   Fixed show description prompt improperly showing up on crafting result slots\r\n-   Blocks now register their first hit as a punch rather then being explicitly left clicked\r\n-   Fixed open guidebook achievement not triggering on controller\r\n-   Fixed controller item dragging with x producing broken behavior\r\n-   Fixed slider element issues on controller\r\n-   Fixed rail power not propagating up slopes\r\n-   Fixed fire striker playing sounds twice in multiplayer\r\n-   Created optimized map for stone to ore mappings\r\n-   Added inverted lamp undyeing recipe\r\n-   Made oak and cherry sapling texture more consistent with each other\r\n-   Made glowstone blocks always drop 4 glowstone dust\r\n-   Fixed snowlayers having incorrect hitbox height\r\n-   Fixed painting uncolored chests causing them to dump their contents onto the ground\r\n-   Fixed handcannon not applying fling like other explosions\r\n-   Fixed subtitles not displaying when game muted\r\n-   Set user provided strings to use utf16 in mp rather then utf8\r\n-   Temporarily made wood and glass trapdoors not check for powersource removal\r\n-   Fixed maxed render distance fog looking too bright\r\n-   Made ghast fireball achievement only apply on hit mobs instead of any entity\r\n-   Fixed held trommel creating ghost items\r\n-   Various command bugfixes\r\n-   Fixed enabling Vsync crashing linux\r\n-   Fixed view jumping when exiting GUIs on linux\r\n-   Fixed window icon image randomly corrupting\r\n-   Fixed reversing flags not working it MP\r\n-   Fixed map waypoints not working correctly on maps\r\n-   Fixed raw iron and raw gold textures having translucent pixels\r\n-   Made container sorting also sort in respect to color/metadata\r\n-   Increased mp connection timeout from 30 seconds to 90\r\n-   Changed ChunkProviderStatic's allocated chunk array size to match current max render distance\r\n-   Fixed render distance slider not updating multidraw render's render area ingame\r\n-   Fixed fog option not actually disabling most fog\r\n-   Removed unneeded iterator to get sign's picture enum\r\n-   Made unfueled furnaces not constantly check if they can smelt\r\n-   Fixed mouse jump issue on linux\r\n-   Untangled mob category interfaces\r\n-   Fixed broken get monitor refresh rate method\r\n-   Fixed flag editing being largely broken in MP\r\n-   Fixed map waypoints not working correctly\r\n-   Removed transparent pixels from raw iron and raw gold textures\r\n-   Fixed z-fighting on painting frame\r\n-   Fixed pickblock move item ignoring default hotbar\r\n-   Fixed a minor piston bug"
       },
       {
         "modversion": "v7.3",
         "prerelease": false,
         "zip": true,
-        "downloadurl": "https://github.com/Better-than-Adventure/bta-download-repo/releases/download/v7.3/bta.v7.3.mmc.zip"
+        "downloadurl": "https://github.com/Better-than-Adventure/bta-download-repo/releases/download/v7.3/bta.v7.3.mmc.zip",
+        "description": "Better than Adventure! 7.3\r\n\r\n== Main Features ==\r\n- Containers can be picked up and moved around!\r\n    - To activate this, hold SHIFT and RIGHT CLICK on a container with an empty hand. Right click again to put it down.\r\n- New command system, thanks to @AndroidDr!\r\n- Rainbows now appear sometimes after it's rained!\r\n- 13 new achievements!\r\n- Texture Packs can now add and replace sounds and music!\r\n- Animals can now be led using a fishing rod!\r\n- Subtitles!\r\n- New game rules: doWeatherCycle and doFireSpread!\r\n- A new credits screen!\r\n- A Skyblock world type!\r\n- Better controller input and much wider compatibility with new controllers!\r\n- A new command, /mobspawning, to control how mobs spawn in the world!\r\n- Stars now have a random colour!\r\n- The achievements screen has been redesigned!\r\n- A festive surprise!\r\n\r\n== New Blocks and Items ==\r\n- Pumice, a new Nether block that soaks up lava.\r\n- Steel Door and Steel Trapdoor, Steel Framed Glass, and Steel Fence.\r\n- Igneous Cobbled Netherrack, Mossy Cobbled Netherrack, Netherrack, Netherrack Bricks, Polished Netherrack Slab, Cobbled Netherrack Slab, Netherrack Brick Slab, Cobbled Netherrack Stairs, and Netherrack Brick Stairs.\r\n- Soul Schist, a new stony variant of Soul Sand. Currently unused.\r\n- Bone Shale, a tough bony block that can only be broken from one direction. Currently unused.\r\n- Paintbrush, which allows you to recolor some blocks such as wool and wooden planks once they've been placed.\r\n- Reinforced Piston, a stronger piston variant that can push more blocks, launches mobs and blocks like projectiles, and can crush blocks down into simpler forms (e.g. cobblestone -> gravel -> sand).\r\n- Activator, a new utility block that, when powered, performs a right-click action for you. Likely to be useful for automated farms.\r\n- Redstone Pumpkin, a new spoOoOky variant of the pumpkin crafted using a Redstone Torch which only applies redstone power from a single side.\r\n- Inverted Redstone Lamp, a variant of the Redstone Lamp that is lit by default and extinguished when powered.\r\n\r\n== Changes to Existing Blocks and Items ==\r\n- Perma-Ice now spawns in patches in cold biomes.\r\n- Food now makes a sound when consumed.\r\n- Removed Redstone Torch burnout.\r\n- Renamed Netherrack to Cobbled Netherrack.\r\n- Cobbled Netherrack can now be used as a substitute for stone in recipes.\r\n- Cherries now only stack to 2.\r\n- Crude Steel has a new texture.\r\n- Many, many piston bugs have been fixed.\r\n- Dyed blocks can now be un-dyed using a sponge.\r\n- Minecarts with chests now retain their colour.\r\n- Pistons can now push block entities such as chests, furnaces, and seats.\r\n- Flowers can now be stacked up to four times in one tile.\r\n- Motion Sensors and Dispensers can now be placed facing upwards and downwards.\r\n- Note blocks now have several more instruments to choose from.\r\n- Nether Portal linking can now be controlled using dyes - e.g. a green portal will only link to another green portal.\r\n- The recipe for ropes has changed to no longer require slime balls.\r\n- Rope breaking behaviour is now more reliable and useful.\r\n- Furnaces and Blast Furnaces now have an alternate texture when they have items sitting in their output slot.\r\n- Players can now control whether the reverse side of a flag is mirrored.\r\n- Pigmen now only spawn on natural Nether blocks.\r\n- Players can now place any item on their head.\r\n- Gave the Trommel a unique bottom texture.\r\n- Retextured the Redstone Block.\r\n- Some blocks now have retro texture variants in the Retro, Indev and Classic world types.\r\n- Added the ability to convert steel ingots back into crude steel.\r\n\r\n== Technical Changes ==\r\n- Migrated the game from LWJGL2 to LWJGL3.\r\n- Added support for modern UUIDs.\r\n- Log4J is now used across both the client and server for logging.\r\n- The game now supports more launch arguments, improving compatibility with modern Minecraft.\r\n- Replaced the Biome Finder utility with Seed Viewer.\r\n- Improved fishing synchronization in multiplayer.\r\n- Improved error handling with corrupted NBT data.\r\n- The client jarfile no longer contains server code, and vice-versa.\r\n- Fixed world holes in multiplayer.\r\n- Made biome range map calculation multi-threaded, improving startup performance.\r\n\r\n== Miscellaneous ==\r\n- The player no longer falls off blocks when sneaking over the edge.\r\n- Added Accessibility page to Options.\r\n- Added two new accessibility options:\r\n    - Contextual FOV Modification\r\n    - Screen Motion Effects\r\n- Enabled item clumping by default (can be disabled).\r\n- Lightning now prefers to strike higher-up points made of metallic blocks.\r\n- Render Distance is now a slider and scales from 2 to 32 chunks (up from 12).\r\n- Wolves no longer stand when their owner is attacked.\r\n- Added key binds for opening achievements and statistics pages.\r\n- Caves now spawn in the Nether again (whoops).\r\n- The guidebook now displays all crafting recipes.\r\n- Ghast fireballs now respect the mobGriefing game rule.\r\n- Tweaked spawning rules for the Dog music disc.\r\n- Removed default keybinds for Toggle Fog and Toggle Gamma.\r\n- /save command in multiplayer now requires operator permissions to run.\r\n- Added warning on startup when the user is missing Java Cryptography Extensions.\r\n- Renamed /spawnparticle to /particle.\r\n- Removed Herobrine."
       },
       {
         "modversion": "v7.2_01",
         "prerelease": false,
         "zip": true,
-        "downloadurl": "https://github.com/Better-than-Adventure/bta-download-repo/releases/download/v7.2_01/7.2_01.zip"
+        "downloadurl": "https://github.com/Better-than-Adventure/bta-download-repo/releases/download/v7.2_01/7.2_01.zip",
+        "description": "## Better Than Adventure! 7.2_01\r\n- Added error printing on exceptions for texture loading\r\n- Temporarily disable lightmaps for intel GPUs as a quick-fix for a bug with textures present for intel users.\r\n- Jukebox's \"Now Playing\" message now accounts for screen padding value\r\n\r\n- Steve has relearned how to handle shallow water\r\n- Fixed entities sometimes deleting themselves from worlds\r\n- Fixed redstone dust texture corruption\r\n- Better error handling with corrupted nbt data\r\n- Updated error message handling in NetClientHandler\r\n- Fixed item lava bouncing\r\n- Fixed crash when leaving a multiplayer world\r\n- Fixed rain and snow causing mobs to extinguish and relight constantly in the day\r\n- Fixed a rare block break animation crash\r\n- Fixed wet farmland not dropping mud\r\n- Texture pack button no longer bugs out when options is closed\r\n- Sky now moves smoothly again in multiplayer\r\n- Some refactors and fixes to fishing\r\n- Fixed bonemeal not being consumed when used on farmland\r\n- Biome Finder window no longer closes the main game's window\r\n- Explosions should no longer be able to cause a concurrent modification exception when occurring\r\n- BiomeFinder and DataDumper utilities now use the correct minecraft directory"
       },
       {
         "modversion": "v7.2",
         "prerelease": false,
         "zip": true,
-        "downloadurl": "https://github.com/Better-than-Adventure/bta-download-repo/releases/download/v7.2/7.2.zip"
+        "downloadurl": "https://github.com/Better-than-Adventure/bta-download-repo/releases/download/v7.2/7.2.zip",
+        "description": "NEW BLOCKS:\r\n- Gold Mesh\r\n    - By default, allows any item to pass through.\r\n    - When right clicked while holding an item, only that item is allowed to pass through, allowing you to sort items as they pass through.\r\n    - Also makes for a nice display!\r\n- Painted Doors and Painted Trapdoors\r\n    - Doors and trapdoors can now be dyed in the same range of colours as their plank counterparts.\r\n- Glass Door\r\n    - A fancy modern-looking door made of glass - make sure not to walk into it!\r\n- Brazier\r\n    - A safe way to contain a fire in a metallic frame.\r\n- Rope\r\n    - Crafted from string and slimeballs, these new blocks can be climbed freely and hooked onto using a fishing rod.\r\n- Flowers\r\n    - Added beautiful Orchids, Heather, Bluebells, and Marigolds, all of which provide new sources of harder-to-obtain dyes.\r\n- Trees\r\n    - Added new Thorn Trees, which are exclusive to the Caatinga, and Palm Trees, which appear in rainforests and occasionally on beaches. Also added a very rare chance for absolutely massive trees to appear in rainforests.\r\n- Pumpkin Pie\r\n    - A new food item that can be crafted from pumpkins and placed in the world, taking four bites to eat.\r\n- Slabs and Stairs\r\n    - Added Permafrost Brick Slabs, Cobbled Permafrost Slabs, Sandstone Brick Slabs, Sandstone Stairs, Sandstone Brick Stairs, Cobbled Permafrost Stairs, Permafrost Brick Stairs, and Polished Permafrost.\r\n\r\nUPDATED BLOCKS:\r\n- Pressure Plates\r\n    - Can now be placed on the underside of blocks, allowing you to crack your head on the ceiling with purpose and determination.\r\n- Paintings\r\n    - Can now have a fancy trim applied using gold ingots, iron ingots, et cetera.\r\n- Cobblestone and Slate\r\n    - Now have updated textures that tile properly but still keep the same overall look - thanks to @IzzyKart57 for contributing them!\r\n- Levers and Buttons\r\n    - Can now be placed on ceilings and floors\r\n\r\nNEW ITEMS:\r\n- Summoning Wand\r\n    - A new creative-only item that provides a more intuitive way to spawn mobs in the world. Can be used in dispensers.\r\n\r\nUPDATED ITEMS:\r\n- Bows\r\n    - Bows now show the arrow they're going to fire.\r\n    - Skeletons now load their bows with arrows when they're ready to fire.\r\n- Food\r\n    - Radically overhauled how food heals the player. When consuming food now, the player heals over a few seconds, rather than instantly, with the actual rate depending on the type of food.\r\n    - Food now stacks, though the stack sizes are still quite low.\r\n    - When eating one kind of food repeatedly, healing is performed consecutively, but when eating multiple types of food at the same time, healing is performed concurrently. If you want to heal faster, eat a varied diet!\r\n\r\nNEW BIOMES:\r\n- Caatinga\r\n    - A new biome inspired by the arid regions of Brazil, the Caatinga provides a smoother transition between grassy and desert biomes.\r\n\r\nNEW GAMEMODES:\r\n- Added Hardcore Mode, Adventure Mode and Spectator Mode.\r\n\r\nTECHNICAL CHANGES:\r\n- terrain.png is no more! All textures now live in their own files like modern Minecraft.\r\n- Lightmaps are here! The world now uses a dynamically-updated texture for determining light appearance, much like Beta 1.8 and onward. This is set to greyscale light to begin with, but can also use the Beta 1.8 palette or even be disabled entirely.\r\n- Seasons each now have their own biome colourmaps, rather than the vanilla colourmap being distorted programmatically to create seasonal colours; this should give texture pack authors a lot more control over season appearance.\r\n\r\nAND MORE:\r\n- Multiple texture packs can now be selected at the same time.\r\n- Added a built-in utility that generates CSV files for wiki usage.\r\n- Vastly improved the Biome Finder utility.\r\n- Added a debug Model Viewer for generating isometric models of items, mobs, blocks, and particles.\r\n- Seasons now last 14 days, rather than 7, doubling the year length to 56 days.\r\n- SRV records are now supported for multiplayer servers.\r\n- Vastly improved the appearance of fancy clouds, especially at sunset.\r\n- Block replacement behaviour is improved\r\n- Added Open Screenshots button to Photo Mode and Model Viewer\r\n- Guidebook is now usable with a controller\r\n- Re-added support for texture packs changing fonts\r\n- Fixed issue where item names could chunkban players\r\n- Mushrooms no longer consume the world\r\n- Camera now behaves properly when falling\r\n- Flowering cherry leaves now decay properly\r\n- Death messages now appear in singleplayer\r\n- Doors no longer open when punched while holding a tool\r\n- Player-placed flowers and grass are no longer affected by seasons\r\n- Increased non-magnified and magnified Motion Sensor range\r\n- Invalid commands now display an error message\r\n- Corrupted worlds now display as corrupted in world selection screen (previously wouldn't show at all)\r\n- Slate layers now actually use the slate side textures\r\n- Gold tools now have more durability and mine faster\r\n- Fishing Rod and iron tools now have more durability\r\n- Added RGB text color codes\r\n- Chunks with missing/invalid biomes no longer delete the chunk\r\n- Many, many bugfixes\r\n- Removed Herobrine"
       },
       {
         "modversion": "v7.2-prerelease-2",
         "prerelease": true,
         "zip": true,
-        "downloadurl": "https://github.com/Better-than-Adventure/bta-download-repo/releases/download/v7.2-prerelease-2/Better_than_Adventure_7.2_Prerelease_2.zip"
+        "downloadurl": "https://github.com/Better-than-Adventure/bta-download-repo/releases/download/v7.2-prerelease-2/Better_than_Adventure_7.2_Prerelease_2.zip",
+        "description": "-1"
       },
       {
         "modversion": "v7.2 Prerelease 1",
         "prerelease": true,
         "zip": true,
-        "downloadurl": "https://github.com/Better-than-Adventure/bta-download-repo/releases/download/v7.2-prerelease-1/v7.2.Prerelease.1.zip"
+        "downloadurl": "https://github.com/Better-than-Adventure/bta-download-repo/releases/download/v7.2-prerelease-1/v7.2.Prerelease.1.zip",
+        "description": "-1"
       },
       {
         "modversion": "v7.1_01",
         "prerelease": false,
         "zip": true,
-        "downloadurl": "https://github.com/Better-than-Adventure/bta-download-repo/releases/download/v7.1_01/7.1_01.zip"
+        "downloadurl": "https://github.com/Better-than-Adventure/bta-download-repo/releases/download/v7.1_01/7.1_01.zip",
+        "description": "v7.1_01\r\n- Added link on main menu to website\r\n- Enabled chat in SP without cheats\r\n- Fixed broken guidebook discovery in singleplayer\r\n- Fixed bugs with VSync option\r\n- Chunk#setBlockIDRaw no longer sets the block meta to the block ID\r\n- Fixed minecart interpolation in singleplayer"
       },
       {
         "modversion": "v7.1",
         "prerelease": false,
         "zip": true,
-        "downloadurl": "https://github.com/Better-than-Adventure/bta-download-repo/releases/download/v7.1/7.1.zip"
-      },
-      {
-        "modversion": "v7.1",
-        "prerelease": false,
-        "zip": true,
-        "downloadurl": "https://github.com/Better-than-Adventure/bta-download-repo/releases/download/v7.1/7.1.zip"
+        "downloadurl": "https://github.com/Better-than-Adventure/bta-download-repo/releases/download/v7.1/7.1.zip",
+        "description": "\r\n### Major Changes:\r\n- Added togglable game rules\r\n\t- keepInventory\r\n\t\t- toggles dropping your items on death\r\n\t- allowSprinting\r\n\t\t- toggles beta 1.8 style sprinting\r\n\t- allowSleeping\r\n\t\t- toggles sleeping in beds to skip night\r\n\t- doNightmares\r\n\t\t- toggles mob spawning at night when bed is incorrectly placed\r\n\t- doSeasonalGrowth\r\n\t\t- toggles tall grass/flowers spawning in spring\r\n\t- treecapitator\r\n\t\t- allows the player to instant chop down entire trees\r\n\t- dwarfMode\r\n\t\t- makes the player 1 block tall and crave beer (second part may be false)\r\n\t- mobGriefing\r\n\t\t- toggles creeper explosions breaking blocks\r\n\t- dayLightCycle\r\n\t\t- toggles time passing in your world\r\n\r\n- New blocks & items:\r\n\t- Paper walls and paper wall blocks\r\n\t- Sugar cane blocks (raw and dried variants)\r\n\t- Cacao leaves and Cacao saplings\r\n\t- Pumpkin seeds\r\n\t- Sittable seats\r\n\r\n- Updated blocks & items\r\n\t- Pumpkins are now farmable and will grow from a seed when planted on farmland\r\n\t- Cocoa beans are now farmable via the new Cacao tree that spawns rarely in Rainforests.\r\n\t- Snow no longer goes through glass\r\n\t- Jars can now be placed\r\n\t- Flowers can be placed in jars\r\n\t- Simplifeid the map recipe (9 paper instead of 8 paper and a compass in the middle)\r\n\t- Updated textures for all painted plank variants\r\n\t- Updated texture for Nether Coal and Block of Nether Coal\r\n\t- Added a flower overlay to flowering cherry leaves\r\n\t- All block and item textures can now be animated via texture packs\r\n\t- Furnace Minecarts can now use fuels other can coal\r\n\t- Boat controls have been revamped\r\n\t- Lamps, painted planks, and painted chests now use individual textures\r\n\t- Recipes are now JSON-based (this adds support for recipe packs)\r\n\t- Items now pass through spawners\r\n\t- Soul sand and clay blocks are now trommel-able\r\n\t- Added line tool to flag editor GUI\r\n\r\n- World \r\n\t- Vastly reworked biome distribution\r\n\t\t- Biomes generate much more fairly, and are smaller on the whole (though still possible to spawn quite large)\r\n\t\t- Snow biomes are much more frequent\r\n\t\t- Biome generation for ex.default and default are now the same. (large biomes coming soon)\r\n\t- Added an Indev level generator\r\n\t- Wolves now spawn more frequently\r\n\t- Noon and midnight are now always at 12am/pm across seasons\r\n\t- Added chunk sections\r\n\t- Rich scorched dirt now properly generates in the outback\r\n\t- Newly loaded chunks in winter now spawn fully snow-covered\r\n\t- In other seasons, the snow clears instantly\r\n\t- Added buttons on world creation to generate a randomised world name and seed\r\n\r\n- Gui and menu changes\r\n\t- The options menu has been redesigned\r\n\t\t- options are split into tabs\r\n\t\t- now displays a more readable list of options\r\n\t\t- Added an option search tab\r\n\t- Added an FPS limiter\r\n\t- Server menu now shows server status (ping, up/down)\r\n\t- HUD components can now be freely rearranged by the player\r\n\t- Middle-clicking now sorts your inventory/chests\r\n\t- Bindable mouse buttons\r\n\t- Keybinds for hotbar slots\r\n\t- Gamma toggle hotkey (defaults to 'G')\r\n\t- Better crash handler\r\n\t- Pressing '/' now opens chat\r\n\t- Added an in-chat emote picker\r\n\t- Added option to hide IP per-server in server menu\r\n\t- Temperature and humidity now show in F3 menu\r\n\r\n- The guidebook has been completely revamped\r\n\t- Now has a snazzy cover page\r\n\t- Sections are split into tabs\r\n\t- Now has search functionality\r\n\t- Pressing 'R' while hovering an item in your inventory now links to a recipe page, if it exists\r\n\r\n### General changes + fixes:\r\n- Significant CPU and memory optimisations\r\n- Optimisations to chunk loading speed in MP\r\n- Every string in the game is now translatable\r\n- Mob spawner target can now be picked in creative mode\r\n- Players can travel to non-vanilla dimensions in MP\r\n- Can no longer eat ice cream or stew at max health\r\n- Ghasts are more accurate\r\n- Improved squid AI\r\n- Block hit delay now decreases the faster the player is mining\r\n- Colorblindness assistance shaders\r\n- Shadows render properly on slabs\r\n- Ice skates max stack size is now 1\r\n- Added /playsound and /spawnparticle commands\r\n- Fixed Midas Touch exploit\r\n- Server sounds are now synced to the client\r\n- Water now respects fall distance properly (no unexpected deaths)\r\n- Moss no longer spreads if adjacent blocks are unloaded\r\n- Baskets now notify neighbouring blocks when filled\r\n- Improved firefly lantern placement\r\n- Piston arm renderer now appears correct on high-res texture packs\r\n- Enabling/disabling VBOs no longer requires a restart\r\n- Fixed hotbar swapping animation\r\n- Cacti now checks for neighboring blocks\r\n- Shears now lose durability when mining blocks tagged MINEABLE_BY_SHEARS\r\n- Skin variants are now synced between client and server\r\n- Removed world hole fix\r\n- Added a manifest file for texture packs\r\n- Can now push minecart from inside\r\n- Unbound keys no longer get reset to default\r\n- Grabbed items render above all GUI elements (no more text overlapping items)\r\n- Suffocation overlay now uses metadata\r\n- Fixed missing textures on wolves\r\n- Fixed 'ghost' entities and entities disappearing\r\n- Added message to warn when Java 8 isn't the selected Java version on Linux\r\n- Optimised chat line splitting\r\n- Fixed map rendering on low view distance on servers\r\n"
       },
       {
         "modversion": "v7.1-prerelease-2",
         "prerelease": true,
         "zip": true,
-        "downloadurl": "https://github.com/Better-than-Adventure/bta-download-repo/releases/download/v7.1-prerelease-2/Better_than_Adventure_7.1_Prerelease_2.zip"
+        "downloadurl": "https://github.com/Better-than-Adventure/bta-download-repo/releases/download/v7.1-prerelease-2/Better_than_Adventure_7.1_Prerelease_2.zip",
+        "description": "-1"
       },
       {
         "modversion": "v7.1-prerelease-2a",
         "prerelease": true,
         "zip": true,
-        "downloadurl": "https://github.com/Better-than-Adventure/bta-download-repo/releases/download/v7.1-prerelease-2a/Better_than_Adventure_7.1_Prerelease_2a.zip"
+        "downloadurl": "https://github.com/Better-than-Adventure/bta-download-repo/releases/download/v7.1-prerelease-2a/Better_than_Adventure_7.1_Prerelease_2a.zip",
+        "description": "-1"
       },
       {
         "modversion": "v7.1-prerelease-1",
         "prerelease": true,
         "zip": true,
-        "downloadurl": "https://github.com/Better-than-Adventure/bta-download-repo/releases/download/v7.1-prerelease-1/Better_than_Adventure_7.1_Prerelease_1.zip"
+        "downloadurl": "https://github.com/Better-than-Adventure/bta-download-repo/releases/download/v7.1-prerelease-1/Better_than_Adventure_7.1_Prerelease_1.zip",
+        "description": "-1"
       },
       {
         "modversion": "v7.1-prerelease-1a",
         "prerelease": true,
         "zip": true,
-        "downloadurl": "https://github.com/Better-than-Adventure/bta-download-repo/releases/download/v7.1-prerelease-1a/Better_than_Adventure_7.1_Prerelease_1a.zip"
+        "downloadurl": "https://github.com/Better-than-Adventure/bta-download-repo/releases/download/v7.1-prerelease-1a/Better_than_Adventure_7.1_Prerelease_1a.zip",
+        "description": "-1"
       },
       {
         "modversion": "v1.7.7.0_02",
         "prerelease": false,
         "zip": true,
-        "downloadurl": "https://github.com/Better-than-Adventure/bta-download-repo/releases/download/v1.7.7.0_02/1.7.7.0_02.zip"
+        "downloadurl": "https://github.com/Better-than-Adventure/bta-download-repo/releases/download/v1.7.7.0_02/1.7.7.0_02.zip",
+        "description": "\r\n- Every string in the game is now translatable\r\n- Updated flag editor GUI\r\n- Line tool in flag editor GUI\r\n- Fixed button overdraw in options menu\r\n- Removed world hole fix\r\n- Server menu now shows server status (ping, up/down)\r\n- Option to hide IP per-server in server menu\r\n- Sugar cane blocks\r\n- Gamma toggle hotkey\r\n- Manifest file for texture packs\r\n- Better crash handler\r\n- FPS limiter\r\n- Paper walls and paper wall blocks\r\n- Game rules\r\n    + keepInventory\r\n    + allowSprinting\r\n    + allowSleeping\r\n    + doNightmares\r\n    + doSeasonalGrowth\r\n    + treecapitator\r\n    + dwarfMode\r\n- Indev level generator\r\n- Vastly fairer biome distribution\r\n- Keybinds for hotbar slots\r\n- Pressing '/' opens chat\r\n- Formatting now carries across chat lines\r\n- Block hit delay now decreases the faster the player is mining\r\n- Snow no longer goes through glass\r\n- Wolves now spawn more frequently\r\n- Cacao trees and farmable cocoa beans\r\n- Significant CPU and memory optimisations\r\n- Farmable pumpkins and pumpkin seeds\r\n- Middle-click inventory sorting\r\n- Bindable mouse buttons\r\n- Colorblindness assistance shaders\r\n- Noon and midnight are now consistent across seasons\r\n- Chunk sections\r\n- Optimisations to chunk loading speed in MP\r\n- HUD components can be rearranged\r\n- Mob spawner target can now be picked\r\n- Lamps, painted planks, and painted chests now use individual textures\r\n- Chat emote picker\r\n- Guidebook rewrite\r\n- JSON-based recipes\r\n- Wolf armor\r\n- Options menu rewrite\r\n- Jars can now be placed\r\n- Flowers can now be placed in jars\r\n- Sittable seats\r\n- All block and item textures can now be animated"
       },
       {
         "modversion": "v1.7.7.0_01",
         "prerelease": false,
         "zip": true,
-        "downloadurl": "https://github.com/Better-than-Adventure/bta-download-repo/releases/download/v1.7.7.0_01/1.7.7.0_01.zip"
+        "downloadurl": "https://github.com/Better-than-Adventure/bta-download-repo/releases/download/v1.7.7.0_01/1.7.7.0_01.zip",
+        "description": "-1"
       },
       {
         "modversion": "v1.7.7.0",
         "prerelease": false,
         "zip": true,
-        "downloadurl": "https://github.com/Better-than-Adventure/bta-download-repo/releases/download/v1.7.7.0/BTA_1.7.7.0.zip"
+        "downloadurl": "https://github.com/Better-than-Adventure/bta-download-repo/releases/download/v1.7.7.0/BTA_1.7.7.0.zip",
+        "description": "-1"
       },
       {
         "modversion": "v1.7.7.0-prerelease-2",
         "prerelease": true,
         "zip": true,
-        "downloadurl": "https://github.com/Better-than-Adventure/bta-download-repo/releases/download/v1.7.7.0-prerelease-2/BTA_1.7.7.0_pre2.zip"
+        "downloadurl": "https://github.com/Better-than-Adventure/bta-download-repo/releases/download/v1.7.7.0-prerelease-2/BTA_1.7.7.0_pre2.zip",
+        "description": "29"
       },
       {
         "modversion": "v1.7.7.0-prerelease-1",
         "prerelease": true,
         "zip": true,
-        "downloadurl": "https://github.com/Better-than-Adventure/bta-download-repo/releases/download/v1.7.7.0-prerelease-1/BTA_1.7.7.0_pre1.zip"
+        "downloadurl": "https://github.com/Better-than-Adventure/bta-download-repo/releases/download/v1.7.7.0-prerelease-1/BTA_1.7.7.0_pre1.zip",
+        "description": "27"
       },
       {
         "modversion": "v1.7.7.0-prerelease-1a",
         "prerelease": true,
         "zip": true,
-        "downloadurl": "https://github.com/Better-than-Adventure/bta-download-repo/releases/download/v1.7.7.0-prerelease-1a/BTA_1.7.7.0_pre1a.zip"
+        "downloadurl": "https://github.com/Better-than-Adventure/bta-download-repo/releases/download/v1.7.7.0-prerelease-1a/BTA_1.7.7.0_pre1a.zip",
+        "description": "28"
       },
       {
         "modversion": "v1.7.6.2_02",
         "prerelease": false,
         "zip": true,
-        "downloadurl": "https://github.com/Better-than-Adventure/bta-download-repo/releases/download/v1.7.6.2_02/BTA_1.7.6.2_02.MultiMC.zip"
+        "downloadurl": "https://github.com/Better-than-Adventure/bta-download-repo/releases/download/v1.7.6.2_02/BTA_1.7.6.2_02.MultiMC.zip",
+        "description": "26"
       },
       {
         "modversion": "v1.7.6.2_01",
         "prerelease": false,
         "zip": true,
-        "downloadurl": "https://github.com/Better-than-Adventure/bta-download-repo/releases/download/v1.7.6.2_01/BTA_1.7.6.2_01_MultiMC.zip"
+        "downloadurl": "https://github.com/Better-than-Adventure/bta-download-repo/releases/download/v1.7.6.2_01/BTA_1.7.6.2_01_MultiMC.zip",
+        "description": "25"
       },
       {
         "modversion": "v1.7.6.2",
         "prerelease": false,
         "zip": true,
-        "downloadurl": "https://github.com/Better-than-Adventure/bta-download-repo/releases/download/v1.7.6.2/BTA_1.7.6.2_MultiMC.zip"
+        "downloadurl": "https://github.com/Better-than-Adventure/bta-download-repo/releases/download/v1.7.6.2/BTA_1.7.6.2_MultiMC.zip",
+        "description": "23"
       },
       {
         "modversion": "v1.7.6.2-prerelease-2",
         "prerelease": true,
         "zip": true,
-        "downloadurl": "https://github.com/Better-than-Adventure/bta-download-repo/releases/download/v1.7.6.2-prerelease-2/1.7.6.2_PRE2_MultiMC.zip"
+        "downloadurl": "https://github.com/Better-than-Adventure/bta-download-repo/releases/download/v1.7.6.2-prerelease-2/1.7.6.2_PRE2_MultiMC.zip",
+        "description": "21"
       },
       {
         "modversion": "v1.7.6.2-prerelease-1",
         "prerelease": true,
         "zip": true,
-        "downloadurl": "https://github.com/Better-than-Adventure/bta-download-repo/releases/download/v1.7.6.2-prerelease-1/1.7.6.2_PRE1.MultiMC.zip"
+        "downloadurl": "https://github.com/Better-than-Adventure/bta-download-repo/releases/download/v1.7.6.2-prerelease-1/1.7.6.2_PRE1.MultiMC.zip",
+        "description": "20"
       },
       {
         "modversion": "v1.7.6_01",
         "prerelease": false,
         "zip": true,
-        "downloadurl": "https://github.com/Better-than-Adventure/bta-download-repo/releases/download/v1.7.6_01/Files-MultiMC-1.7.6_01.zip"
+        "downloadurl": "https://github.com/Better-than-Adventure/bta-download-repo/releases/download/v1.7.6_01/Files-MultiMC-1.7.6_01.zip",
+        "description": "16"
       },
       {
         "modversion": "v1.7.6.1",
         "prerelease": false,
         "zip": true,
-        "downloadurl": "https://github.com/Better-than-Adventure/bta-download-repo/releases/download/v1.7.6.1/1.7.6.1-MULTIMC.zip"
+        "downloadurl": "https://github.com/Better-than-Adventure/bta-download-repo/releases/download/v1.7.6.1/1.7.6.1-MULTIMC.zip",
+        "description": "19"
       },
       {
         "modversion": "v1.7.6",
         "prerelease": false,
         "zip": true,
-        "downloadurl": "https://github.com/Better-than-Adventure/bta-download-repo/releases/download/v1.7.6/Minecraft-BTA-1.7.6-MultiMC.zip"
+        "downloadurl": "https://github.com/Better-than-Adventure/bta-download-repo/releases/download/v1.7.6/Minecraft-BTA-1.7.6-MultiMC.zip",
+        "description": "15"
       },
       {
         "modversion": "v1.7.6 prerelease 3",
         "prerelease": true,
         "zip": false,
-        "downloadurl": "https://github.com/Better-than-Adventure/bta-download-repo/releases/download/v1.7.6-prerelease-3/bta.jar"
+        "downloadurl": "https://github.com/Better-than-Adventure/bta-download-repo/releases/download/v1.7.6-prerelease-3/bta.jar",
+        "description": "14"
       },
       {
         "modversion": "v1.7.6 prerelease 2",
         "prerelease": true,
         "zip": false,
-        "downloadurl": "https://github.com/Better-than-Adventure/bta-download-repo/releases/download/v1.7.6-prerelease-2/bta.jar"
+        "downloadurl": "https://github.com/Better-than-Adventure/bta-download-repo/releases/download/v1.7.6-prerelease-2/bta.jar",
+        "description": "12"
       },
       {
         "modversion": "v1.7.6 prerelease 2c",
         "prerelease": true,
         "zip": false,
-        "downloadurl": "https://github.com/Better-than-Adventure/bta-download-repo/releases/download/v1.7.6-prerelease-2c/bta.jar"
+        "downloadurl": "https://github.com/Better-than-Adventure/bta-download-repo/releases/download/v1.7.6-prerelease-2c/bta.jar",
+        "description": "13"
       },
       {
         "modversion": "v1.7.6 prerelease 1",
         "prerelease": true,
         "zip": false,
-        "downloadurl": "https://github.com/Better-than-Adventure/bta-download-repo/releases/download/v1.7.6-prerelease-1/bta.jar"
+        "downloadurl": "https://github.com/Better-than-Adventure/bta-download-repo/releases/download/v1.7.6-prerelease-1/bta.jar",
+        "description": "-1"
       },
       {
         "modversion": "v1.7.5_01",
         "prerelease": false,
         "zip": false,
-        "downloadurl": "https://github.com/Better-than-Adventure/bta-download-repo/releases/download/v1.7.5_01/bta.jar"
+        "downloadurl": "https://github.com/Better-than-Adventure/bta-download-repo/releases/download/v1.7.5_01/bta.jar",
+        "description": "11"
       },
       {
         "modversion": "v1.7.5",
         "prerelease": false,
         "zip": false,
-        "downloadurl": "https://github.com/Better-than-Adventure/bta-download-repo/releases/download/v1.7.5/bta.jar"
+        "downloadurl": "https://github.com/Better-than-Adventure/bta-download-repo/releases/download/v1.7.5/bta.jar",
+        "description": "7"
       },
       {
         "modversion": "v1.7.5-prerelease-3",
         "prerelease": true,
         "zip": false,
-        "downloadurl": "https://github.com/Better-than-Adventure/bta-download-repo/releases/download/v1.7.5-prerelease-3/bta.jar"
+        "downloadurl": "https://github.com/Better-than-Adventure/bta-download-repo/releases/download/v1.7.5-prerelease-3/bta.jar",
+        "description": "6"
       },
       {
         "modversion": "v1.7.5-prerelease-2",
         "prerelease": true,
         "zip": false,
-        "downloadurl": "https://github.com/Better-than-Adventure/bta-download-repo/releases/download/v1.7.5-prerelease-2/bta.jar"
+        "downloadurl": "https://github.com/Better-than-Adventure/bta-download-repo/releases/download/v1.7.5-prerelease-2/bta.jar",
+        "description": "5"
       },
       {
         "modversion": "v1.7.5-prerelease-1",
         "prerelease": true,
         "zip": false,
-        "downloadurl": "https://github.com/Better-than-Adventure/bta-download-repo/releases/download/v1.7.5-prerelease-1/bta.jar"
+        "downloadurl": "https://github.com/Better-than-Adventure/bta-download-repo/releases/download/v1.7.5-prerelease-1/bta.jar",
+        "description": "4"
       },
       {
         "modversion": "v1.7.4_02",
         "prerelease": false,
         "zip": false,
-        "downloadurl": "https://github.com/Better-than-Adventure/bta-download-repo/releases/download/v1.7.4_02/bta.jar"
+        "downloadurl": "https://github.com/Better-than-Adventure/bta-download-repo/releases/download/v1.7.4_02/bta.jar",
+        "description": "3"
       },
       {
         "modversion": "v1.7.4_01_1",
         "prerelease": false,
         "zip": false,
-        "downloadurl": "https://github.com/Better-than-Adventure/bta-download-repo/releases/download/v1.7.4_01_1/bta.jar"
+        "downloadurl": "https://github.com/Better-than-Adventure/bta-download-repo/releases/download/v1.7.4_01_1/bta.jar",
+        "description": "2"
       },
       {
         "modversion": "v1.7.4_01",
         "prerelease": false,
         "zip": false,
-        "downloadurl": "https://github.com/Better-than-Adventure/bta-download-repo/releases/download/v1.7.4_01/bta.jar"
+        "downloadurl": "https://github.com/Better-than-Adventure/bta-download-repo/releases/download/v1.7.4_01/bta.jar",
+        "description": "1"
       }
     ]
   }
-  
